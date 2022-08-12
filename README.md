@@ -1,6 +1,6 @@
 [![MasterHead](https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif)](https://udoann.io)
 <h1 align="center">Hi 👋, I'm Nnaemeka</h1>
-<h3 align="center">A passionate Pythonista , Data Science</h3>
+<h3 align="center">A passionate Pythonista , Data Scientis</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udoann&label=Profile%20views&color=0e75b6&style=flat" alt="udoann" /> </p>
